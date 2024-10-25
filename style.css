@@ -1,0 +1,150 @@
+.body{
+    background-color: rgb(225,230,230)
+};
+
+h1{
+color: wheat
+
+}
+
+#hero{
+    justify-content: center;
+    text-align: center;
+    
+
+}
+#hero h1{
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+
+
+button{
+    border-radius: 80px;
+    height: 50px;
+    width: 80px;
+    justify-items: end;
+    text-align:auto;
+}
+.Avast{
+    font-size: 25px;
+    font-weight: 700;
+}
+.space{
+    margin-left: 38vw;
+}
+.form{
+    width:400px;
+    border-radius: 300px;
+}
+.div-row{
+    display: flex;
+    gap: 40px;
+}
+.div-row button{
+    border-radius: 100px;
+    
+}
+.cards{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 70px;
+}
+.one{
+    background-color: #fff9f5;
+padding: 20px;
+border-radius: 30px;
+}
+.two{
+    background-color: #fff9f5;
+    padding: 20px;
+    border-radius: 30px;
+
+}
+.three{
+    background-color: #fff9f5;
+    padding: 20px;
+  
+    
+    border-radius: 30px;
+
+}
+.background{
+    background-color: #fff1e5;
+    margin-top: 25px;
+    
+  }
+
+  .hero2{
+    justify-content: center;
+    text-align: center;
+    margin-top: 100px;
+    
+
+}
+.hero2 h1{
+    font-weight: bolder;
+    font-size: 50px;
+}
+.drop{
+    display: flex;
+    justify-content: center;
+}
+.accordion{
+    margin:20px 200px 20px 200px;
+    border-radius: 50px;
+    border: 1px solid rgb(143, 140, 140);
+    padding: 50px;
+    
+}
+
+/* foot */
+.last ul li{
+    color:#fff;
+  }
+  .city{
+    margin-top: 80px;
+  }
+  .svg{
+    display:flex;
+    gap: 20px;
+  }
+  .email-icon{
+    color: #bdbdbd;
+  }
+  .input-box-6{
+    background-color: #616161;
+    color: #bdbdbd;
+    border-radius: 10px;
+  }
+  .right {
+   display: flex;
+   justify-content: flex-end;
+   margin-left: 100px;
+    color: white;
+    
+    
+  }
+  .container{
+padding-top: 100px;
+
+  }
+
+  .buttonn{
+    border: 1px solid white;
+    width: 230px;
+    border-radius: 80px;
+    color: white;
+    margin-top: 20px;
+  }
+  .last {
+  display: flex;
+  gap: 30px;
+    margin-top: 20px;
+
+  }
+  
+    
+
+  
