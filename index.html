@@ -75,19 +75,18 @@
         <img src="assests/download.svg" alt="">
     </div>
     <div id = hero-card class="col-md-8 mt-2 ">
-     <div class="div-row">
-        <input class="form-control form-control-lg form " type="text" placeholder="wuugZMRnvuzqNwb...
-        " aria-label=".form-control-lg example">
-        
-        <button type="button" class="btn btn-primary">Copy</button>
-        </div>
-    </div>
-
-
-
-
-    </div>
-    </div>
+      <div class="div-row">
+        <div id="passValue">
+          <input  id="passwordInput" class="form-control form-control-lg form " type="text" placeholder="wuugZMRnvuzqNwb...
+          " aria-label=".form-control-lg example">
+          </div>
+          
+          
+          <button onclick="GenerateRandomPass()" type="button" class="btn btn-primary" >Generate</button>
+          </div>
+  
+      </div>
+      </div>
  <!-- other sec -->
  <div class="background">
     <section class="py-0 ">
@@ -394,7 +393,8 @@
 
         </section>
                 
-    
+        <script src="app.js"></script>
+
     <script  src="https://kit.fontawesome.com/9b1c66c6c0.js" crossorigin="anonymous"></script>
     <script src="links/bundle.js"></script>
     <script src="links/popper.js"></script>
